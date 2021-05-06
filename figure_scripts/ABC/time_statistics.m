@@ -1,5 +1,5 @@
 
-load('..\..\..\data_reconstruction\ABC\ABC.mat')
+load('..\..\..\ABC.mat')
 load('..\..\..\figure_scripts\color.mat')
 ssnamelist=["Gene A","Gene B","Gene C"];
 
