@@ -1,5 +1,5 @@
 load('ABC.mat')
-load('E:\PKU\LinLab\LK\Analysis\Data_reconstruction\figure_scripts\color.mat')
+load('..\figure_scripts\color.mat')
 
 ssnamelist=["Gene A";"Gene B";"Gene C";"Gene B fast";"Gene B slow"];
 ssupstream=["0";"Gene A";"Gene B";"Gene A";"Gene A"];
