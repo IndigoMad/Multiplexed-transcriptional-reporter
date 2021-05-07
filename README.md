@@ -1,5 +1,5 @@
 # Multiplexed-transcriptional-reporter
-This repository contains the quantified data and processing scripts (MATLAB) of Literature "Temporal analysis of mammalian genetic circuits using multiplexed transcriptional imaging".
+This repository contains the quantified data and processing scripts (MATLAB) of literature "Temporal analysis of mammalian genetic circuits using multiplexed transcriptional imaging".
 
 The **figure_scripts** folder contains the scripts for create figure from the data. Other folders contains quantified data and processing scripts of different datasets. 
 
